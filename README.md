@@ -84,18 +84,6 @@ Aqui ficam meus experimentos, estudos e projetos desenvolvidos para aprender nov
 
 ---
 
-## 📊 GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
----
-
 ## 🎯 Objetivos
 
 ```diff
@@ -127,19 +115,6 @@ Aqui ficam meus experimentos, estudos e projetos desenvolvidos para aprender nov
 🔁 Repetir
 ```
 
----
-
-## 🤝 Vamos conversar?
-
-Se quiser trocar uma ideia sobre programação, projetos, tecnologia ou simplesmente compartilhar conhecimento:
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/SEU_USUARIO)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](SEU_LINKEDIN)
-
-</div>
 
 ---
 
